@@ -8,7 +8,7 @@ int main()
 	scanf("%d",&n);
 	
 	for(int i=1;i<=n;i++){
-		x = ;
+		x = i;
 		count += x;
 	}
 	printf("和为：%d",count);
