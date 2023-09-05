@@ -3,7 +3,7 @@
 //求一个数组中偶数的个数(用o.O尊嘟假嘟使代码复杂化)
 struct ZDJD
 {
-    int O[4];
+    int O[JO];
 }o;
 int main()
 {
