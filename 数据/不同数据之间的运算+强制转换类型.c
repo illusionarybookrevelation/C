@@ -7,7 +7,7 @@ int main()
     double d = 7.5,sum;
 
     sum = 10 + 'a' + i*f - d/3;
-    /* a转化的ASCLL码为97，此时10+‘a’=107为int型
+    /* a转化的ASCLL码为97，此时10+‘a’=107为int型,
      * 先乘除后加减，i与f都会被转化为double型然后相乘，值为7.5，double型，
      * 107转化为double型与7.5相加，值为114.5，double型，
      * 3转化为double型，d/3的值为2.5，double型，
