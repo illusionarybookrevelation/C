@@ -13,7 +13,7 @@ int main()
         j++;
     }while(j<=100);
 
-    printf("1+。。+100等于(while循环)：%d\n",sum1);
-    printf("1+。。+100等于(do...while循环)：%d",sum2);
+    printf("1+...+100等于(while循环)：%d\n",sum1);
+    printf("1+...+100等于(do...while循环)：%d",sum2);
     return 0;
 }
