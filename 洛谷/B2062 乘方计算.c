@@ -1,12 +1,15 @@
 #include <stdio.h>
+#include <math.h>
 int main()
 {
     int a,n,g=0;
     scanf("%d%d",&a,&n);
-    g = a * a;
-    for(int i=0;i<n-2;i++){
+    g = (int)pow(a,n);
+    ///g = a * a;
+    /*for(int i=0;i<n-2;i++){
         g = g * a;
-    }
+    }*/
+
     printf("%d",g);
     return 0;
 }
