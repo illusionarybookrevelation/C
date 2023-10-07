@@ -14,7 +14,7 @@ int main()
     if(k==0){
         printf("%d是素数\n",n);
     }else{
-        printf("该数不是素数\n",n);
+        printf("该数不是素数\n");
     }
     return 0;
 }
