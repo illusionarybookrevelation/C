@@ -6,7 +6,7 @@ int main()
     scanf("%d",&integer);
     if(integer>=1 && integer<=100){
         impress = integer * N;
-        int winner[impress];
+        long int winner[impress];
         for(int i = 0;i < impress;i++){
             scanf("%d",&eat);
             winner[i] = eat;
