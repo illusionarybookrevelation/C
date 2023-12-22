@@ -75,5 +75,42 @@ int main()
     //条件运算符
     i = 0;
     cout << "1 < 2 && ++i : " << ((1 < 2 && ++i) ? "true" : "false") << endl;       //三元运算符
+
+    //位运算符
+    unsigned char bits = 0xb5;
+    cout << hex;                    //以十六进制的方式显示输出
+    cout << "bits左移2位 : " <<(bits << 2) << endl;
+    cout << "bits左8位 : " <<(bits << 8) << endl;
+    cout << "bits左移31位 : " <<(bits << 31) << endl;
+    cout << "bits左移32位 : " <<(bits << 32) << endl;
+    cout << "bits左移34位 : " <<(bits << 34) << endl;
+    cout << "bits右移3位 : " <<(bits >> 3) << endl;
+
+    cout << dec;
+    cout << (200 << 3) << endl;
+    cout << (100 >> 2) << endl;
+
+    //位逻辑运算
+    cout << (~5) << endl;
+    cout << (5 & 12) << endl;
+    cout << (5 | 12) << endl;
+    cout << (5 ^ 12) << endl;
+
+    //案例：从一组数里找出只出现一次的那个数
+    int i1 = 5, i2 = 12, i3 = 12, i4 = 9, i5 = 5;
+    cout <<"只出现一次的那个数为 : " << (i1 ^ i2 ^ i3 ^ i4 ^ i5) << endl;
+
+    //类型转换
+    //隐式类型转换
+    short s = 15.2 + 20;
+    cout << "s = " << s << endl;
+    cout << "15.2 + 20 = " << (15.2 + 20) << endl;
+    cout << "s的长度为 : " << sizeof s << endl;
+    cout << "15.2 + 20长度为 : " << sizeof(15.2 + 20) << endl;
+
+    //关系运算符中的类型转换
+    a = -1;
+    cout << ((0 < a < 100) ? "true" : "false") << endl;
+    cout << ((0 < a && a < 100) ? "true" : "false") << endl;
     cin.get();
 }
