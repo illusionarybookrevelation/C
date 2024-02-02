@@ -1,0 +1,72 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/Minwg/lib/gcc/x86_64-w64-mingw32/9.2.0/include",
+						"D:/Minwg/include",
+						"D:/Minwg/lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed",
+						"D:/Minwg/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"D:/Minwg/lib/gcc/x86_64-w64-mingw32/9.2.0",
+						"D:/Minwg/lib/gcc",
+						"D:/Minwg/x86_64-w64-mingw32/lib",
+						"D:/Minwg/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "D:/Minwg/bin/gcc.exe",
+				"version" : "9.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "D:/CLion/CLion 2022.3/bin/mingw/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
