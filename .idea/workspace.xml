@@ -19,18 +19,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/函数/成绩.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数/同名.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数/静态局部变量.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数/静态局部变量阶乘.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/流程控制语句/heart.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/流程控制语句/heart.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C语言/n的阶乘-for.c" beforeDir="false" afterPath="$PROJECT_DIR$/C语言/n的阶乘-for.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-efcff2cc126d1bef10e0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-02-02T03-09-45-0688.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C-Debug-c767249f2645102ef3e2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,15 +64,27 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ 文件.成绩.c">
+  <component name="RunManager" selected="C/C++ 文件.静态局部变量阶乘.c">
     <configuration name="成绩.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="成绩.c" CONFIG_NAME="成绩.c">
       <option name="sourceFile" value="函数\成绩.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cir.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="cir.cpp" CONFIG_NAME="cir.cpp">
-      <option name="sourceFile" value="EasyX\cir.cpp" />
+    <configuration name="同名.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="同名.c" CONFIG_NAME="同名.c">
+      <option name="sourceFile" value="函数\同名.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="静态局部变量.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量.c" CONFIG_NAME="静态局部变量.c">
+      <option name="sourceFile" value="函数\静态局部变量.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="静态局部变量阶乘.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量阶乘.c" CONFIG_NAME="静态局部变量阶乘.c">
+      <option name="sourceFile" value="函数\静态局部变量阶乘.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -91,32 +95,20 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="main.c" CONFIG_NAME="main.c">
-      <option name="sourceFile" value="main.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="n的阶乘-for.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="n的阶乘-for.c" CONFIG_NAME="n的阶乘-for.c">
-      <option name="sourceFile" value="C语言\n的阶乘-for.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="C/C++ 文件.同名.c" />
+      <item itemvalue="C/C++ 文件.静态局部变量.c" />
+      <item itemvalue="C/C++ 文件.静态局部变量阶乘.c" />
       <item itemvalue="C/C++ 文件.成绩.c" />
       <item itemvalue="C/C++ 文件.heart.cpp" />
-      <item itemvalue="C/C++ 文件.main.c" />
-      <item itemvalue="C/C++ 文件.n的阶乘-for.c" />
-      <item itemvalue="C/C++ 文件.cir.cpp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.静态局部变量阶乘.c" />
+        <item itemvalue="C/C++ 文件.静态局部变量.c" />
+        <item itemvalue="C/C++ 文件.同名.c" />
         <item itemvalue="C/C++ 文件.成绩.c" />
         <item itemvalue="C/C++ 文件.heart.cpp" />
-        <item itemvalue="C/C++ 文件.cir.cpp" />
-        <item itemvalue="C/C++ 文件.n的阶乘-for.c" />
-        <item itemvalue="C/C++ 文件.main.c" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +123,7 @@
       <workItem from="1706843252818" duration="3042000" />
       <workItem from="1707551758275" duration="147000" />
       <workItem from="1708652198247" duration="3354000" />
-      <workItem from="1709539545509" duration="2000" />
+      <workItem from="1709539545509" duration="2334000" />
     </task>
     <servers />
   </component>
