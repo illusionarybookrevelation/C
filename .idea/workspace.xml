@@ -18,12 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/函数/同名.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/函数/静态局部变量.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/函数/静态局部变量阶乘.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +118,7 @@
       <workItem from="1706843252818" duration="3042000" />
       <workItem from="1707551758275" duration="147000" />
       <workItem from="1708652198247" duration="3354000" />
-      <workItem from="1709539545509" duration="2334000" />
+      <workItem from="1709539545509" duration="2363000" />
     </task>
     <servers />
   </component>
