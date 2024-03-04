@@ -12,11 +12,7 @@
 						"string" : "3.24"
 					},
 					"projectIndex" : 0,
-					"source" : ".",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"source" : "."
 				}
 			],
 			"name" : "Debug",
@@ -27,23 +23,10 @@
 					[
 						0
 					],
-					"name" : "C",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"name" : "C"
 				}
 			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 0,
-					"id" : "C::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-C-Debug-c767249f2645102ef3e2.json",
-					"name" : "C",
-					"projectIndex" : 0
-				}
-			]
+			"targets" : []
 		}
 	],
 	"kind" : "codemodel",

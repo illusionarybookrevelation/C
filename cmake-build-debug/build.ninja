@@ -40,39 +40,6 @@ include CMakeFiles/rules.ninja
 # Logical path to working directory; prefix for absolute paths.
 
 cmake_ninja_workdir = D$:/C$ Language/C/cmake-build-debug/
-# =============================================================================
-# Object build statements for EXECUTABLE target C
-
-
-#############################################
-# Order-only phony target for C
-
-build cmake_object_order_depends_target_C: phony || CMakeFiles/C.dir
-
-build CMakeFiles/C.dir/main.c.obj: C_COMPILER__C_Debug D$:/C$ Language/C/main.c || cmake_object_order_depends_target_C
-  DEP_FILE = CMakeFiles\C.dir\main.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always -std=gnu11
-  OBJECT_DIR = CMakeFiles\C.dir
-  OBJECT_FILE_DIR = CMakeFiles\C.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target C
-
-
-#############################################
-# Link the executable C.exe
-
-build C.exe: C_EXECUTABLE_LINKER__C_Debug CMakeFiles/C.dir/main.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -Wl,-Bstatic  -leasyx  -Wl,-Bdynamic  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\C.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = C.exe
-  TARGET_IMPLIB = libC.dll.a
-  TARGET_PDB = C.exe.dbg
-
 
 #############################################
 # Utility command for edit_cache
@@ -99,8 +66,6 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build C: phony C.exe
-
 # =============================================================================
 # Folder targets.
 
@@ -109,7 +74,7 @@ build C: phony C.exe
 #############################################
 # Folder: D:/C Language/C/cmake-build-debug
 
-build all: phony C.exe
+build all: phony
 
 # =============================================================================
 # Built-in targets
