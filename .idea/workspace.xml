@@ -19,9 +19,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/函数/外部变量引用.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/函数/外部链接.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/函数/外部链接引用.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +61,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ 文件.外部变量引用.c">
+  <component name="RunManager" selected="C/C++ 文件.外部链接引用.c">
     <configuration name="成绩.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="成绩.c" CONFIG_NAME="成绩.c">
       <option name="sourceFile" value="函数\成绩.c" />
       <method v="2">
@@ -73,6 +70,12 @@
     </configuration>
     <configuration name="外部变量引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部变量引用.c" CONFIG_NAME="外部变量引用.c">
       <option name="sourceFile" value="函数\外部变量引用.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="外部链接引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部链接引用.c" CONFIG_NAME="外部链接引用.c">
+      <option name="sourceFile" value="函数\外部链接引用.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -103,11 +106,13 @@
     </configuration>
     <list>
       <item itemvalue="C/C++ 文件.外部变量引用.c" />
+      <item itemvalue="C/C++ 文件.外部链接引用.c" />
       <item itemvalue="C/C++ 文件.成绩.c" />
       <item itemvalue="C/C++ 文件.heart.cpp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.外部链接引用.c" />
         <item itemvalue="C/C++ 文件.外部变量引用.c" />
         <item itemvalue="C/C++ 文件.成绩.c" />
         <item itemvalue="C/C++ 文件.heart.cpp" />
@@ -126,7 +131,7 @@
       <workItem from="1707551758275" duration="147000" />
       <workItem from="1708652198247" duration="3354000" />
       <workItem from="1709539545509" duration="2363000" />
-      <workItem from="1709626620008" duration="1284000" />
+      <workItem from="1709626620008" duration="4017000" />
     </task>
     <servers />
   </component>
