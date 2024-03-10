@@ -19,8 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/指针/参数交换.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指针/顺序输出.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指针/函数变量变更.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ 文件.参数交换.c">
+  <component name="RunManager" selected="C/C++ 文件.函数变量变更.c">
     <configuration name="3x3数组转置.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="3x3数组转置.c" CONFIG_NAME="3x3数组转置.c">
       <option name="sourceFile" value="函数\3x3数组转置.c" />
       <method v="2">
@@ -74,6 +73,30 @@
     </configuration>
     <configuration name="参数交换.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="参数交换.c" CONFIG_NAME="参数交换.c">
       <option name="sourceFile" value="指针\参数交换.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="函数变量变更.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="函数变量变更.c" CONFIG_NAME="函数变量变更.c">
+      <option name="sourceFile" value="指针\函数变量变更.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="同名.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="同名.c" CONFIG_NAME="同名.c">
+      <option name="sourceFile" value="函数\同名.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="静态局部变量.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量.c" CONFIG_NAME="静态局部变量.c">
+      <option name="sourceFile" value="函数\静态局部变量.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="静态局部变量阶乘.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量阶乘.c" CONFIG_NAME="静态局部变量阶乘.c">
+      <option name="sourceFile" value="函数\静态局部变量阶乘.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -126,37 +149,15 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="同名.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="同名.c" CONFIG_NAME="同名.c">
-      <option name="sourceFile" value="函数\同名.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="静态局部变量.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量.c" CONFIG_NAME="静态局部变量.c">
-      <option name="sourceFile" value="函数\静态局部变量.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="静态局部变量阶乘.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量阶乘.c" CONFIG_NAME="静态局部变量阶乘.c">
-      <option name="sourceFile" value="函数\静态局部变量阶乘.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="C/C++ 文件.函数变量变更.c" />
       <item itemvalue="C/C++ 文件.参数交换.c" />
-      <item itemvalue="C/C++ 文件.反序存放.c" />
-      <item itemvalue="C/C++ 文件.字符串连接.c" />
-      <item itemvalue="C/C++ 文件.顺序输出.c" />
       <item itemvalue="C/C++ 文件.3x3数组转置.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.函数变量变更.c" />
         <item itemvalue="C/C++ 文件.参数交换.c" />
-        <item itemvalue="C/C++ 文件.顺序输出.c" />
-        <item itemvalue="C/C++ 文件.字符串连接.c" />
-        <item itemvalue="C/C++ 文件.反序存放.c" />
         <item itemvalue="C/C++ 文件.3x3数组转置.c" />
       </list>
     </recent_temporary>
@@ -176,7 +177,8 @@
       <workItem from="1709626620008" duration="4017000" />
       <workItem from="1709710094884" duration="1544000" />
       <workItem from="1709790673428" duration="16824000" />
-      <workItem from="1709878869230" duration="4154000" />
+      <workItem from="1709878869230" duration="4503000" />
+      <workItem from="1710060646528" duration="3376000" />
     </task>
     <servers />
   </component>
