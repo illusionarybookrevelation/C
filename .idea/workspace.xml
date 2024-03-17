@@ -19,10 +19,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/指针/排序.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指针/二维数组指针输出.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指针/指向数组的指针.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/指针/相反存放.c" beforeDir="false" afterPath="$PROJECT_DIR$/指针/相反存放.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/指针/排序.c" beforeDir="false" afterPath="$PROJECT_DIR$/指针/排序.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组/幻方(魔方阵列).c" beforeDir="false" afterPath="$PROJECT_DIR$/数组/幻方(魔方阵列).c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,27 +68,21 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ 文件.排序.c">
+  <component name="RunManager" selected="C/C++ 文件.指向数组的指针.c">
+    <configuration name="幻方(魔方阵列).c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="幻方(魔方阵列).c" CONFIG_NAME="幻方(魔方阵列).c">
+      <option name="sourceFile" value="数组\幻方(魔方阵列).c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="参数交换.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="参数交换.c" CONFIG_NAME="参数交换.c">
       <option name="sourceFile" value="指针\参数交换.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
-      <option name="sourceFile" value="指针\相反存放.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="排序.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="排序.c" CONFIG_NAME="排序.c">
-      <option name="sourceFile" value="指针\排序.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="函数变量变更.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="函数变量变更.c" CONFIG_NAME="函数变量变更.c">
-      <option name="sourceFile" value="指针\函数变量变更.c" />
+    <configuration name="指向数组的指针.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="指向数组的指针.c" CONFIG_NAME="指向数组的指针.c">
+      <option name="sourceFile" value="指针\指向数组的指针.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -152,6 +147,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="二维数组指针输出.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="二维数组指针输出.c" CONFIG_NAME="二维数组指针输出.c">
+      <option name="sourceFile" value="指针\二维数组指针输出.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
       <option name="sourceFile" value="指针\相反存放.c" />
       <method v="2">
@@ -182,15 +183,28 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="C/C++ 文件.排序.c" />
-      <item itemvalue="C/C++ 文件.相反存放.c" />
-      <item itemvalue="C/C++ 文件.参数交换.c" />
-    </list>
+    <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
+      <option name="sourceFile" value="指针\相反存放.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="排序.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="排序.c" CONFIG_NAME="排序.c">
+      <option name="sourceFile" value="指针\排序.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="函数变量变更.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="函数变量变更.c" CONFIG_NAME="函数变量变更.c">
+      <option name="sourceFile" value="指针\函数变量变更.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ 文件.排序.c" />
-        <item itemvalue="C/C++ 文件.相反存放.c" />
+        <item itemvalue="C/C++ 文件.指向数组的指针.c" />
+        <item itemvalue="C/C++ 文件.幻方(魔方阵列).c" />
         <item itemvalue="C/C++ 文件.参数交换.c" />
       </list>
     </recent_temporary>
@@ -213,7 +227,12 @@
       <workItem from="1709878869230" duration="4503000" />
       <workItem from="1710060646528" duration="3387000" />
       <workItem from="1710137208454" duration="7647000" />
-      <workItem from="1710317121793" duration="5401000" />
+      <workItem from="1710317121793" duration="5490000" />
+      <workItem from="1710338066094" duration="407000" />
+      <workItem from="1710416684806" duration="200000" />
+      <workItem from="1710489510582" duration="109000" />
+      <workItem from="1710490705877" duration="3942000" />
+      <workItem from="1710645488710" duration="1134000" />
     </task>
     <servers />
   </component>

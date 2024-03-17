@@ -19,7 +19,7 @@ int main()
 }
 
 void switch_num(int x[],int n){
-   int i,j,k,t;
+   int i,j,t;
    for(i=0;i<n;i++){
        t = i;
        for(j=0;j<n;j++){
