@@ -19,11 +19,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/指针/二维数组指针输出.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指针/指向数组的指针.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指针/一般字符串复制.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指针/字符型指针变量作实参.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指针/字符型指针变量作形参和实参.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指针/字符数组作函数参数.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指针/指向数组的指针之一维查找.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指针/指针字符串复制.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指针/指针引用字符串.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/指针/排序.c" beforeDir="false" afterPath="$PROJECT_DIR$/指针/排序.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组/幻方(魔方阵列).c" beforeDir="false" afterPath="$PROJECT_DIR$/数组/幻方(魔方阵列).c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +71,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ 文件.指向数组的指针.c">
+  <component name="RunManager" selected="C/C++ 文件.字符型指针变量作形参和实参.c">
     <configuration name="幻方(魔方阵列).c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="幻方(魔方阵列).c" CONFIG_NAME="幻方(魔方阵列).c">
       <option name="sourceFile" value="数组\幻方(魔方阵列).c" />
       <method v="2">
@@ -81,8 +84,86 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="字符数组作函数参数.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="字符数组作函数参数.c" CONFIG_NAME="字符数组作函数参数.c">
+      <option name="sourceFile" value="指针\字符数组作函数参数.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符型指针作实参.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="字符型指针作实参.c" CONFIG_NAME="字符型指针作实参.c">
+      <option name="sourceFile" value="指针\字符型指针作实参.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符型指针变量作形参和实参.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="字符型指针变量作形参和实参.c" CONFIG_NAME="字符型指针变量作形参和实参.c">
+      <option name="sourceFile" value="指针\字符型指针变量作形参和实参.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
+      <option name="sourceFile" value="指针\相反存放.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="函数之公约数与公倍数.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="函数之公约数与公倍数.c" CONFIG_NAME="函数之公约数与公倍数.c">
+      <option name="sourceFile" value="函数\函数之公约数与公倍数.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="外部链接引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部链接引用.c" CONFIG_NAME="外部链接引用.c">
+      <option name="sourceFile" value="函数\外部链接引用.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="外部变量引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部变量引用.c" CONFIG_NAME="外部变量引用.c">
+      <option name="sourceFile" value="函数\外部变量引用.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="外部链接引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部链接引用.c" CONFIG_NAME="外部链接引用.c">
+      <option name="sourceFile" value="函数\外部链接引用.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="指向数组的指针.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="指向数组的指针.c" CONFIG_NAME="指向数组的指针.c">
       <option name="sourceFile" value="指针\指向数组的指针.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
+      <option name="sourceFile" value="指针\相反存放.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="排序.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="排序.c" CONFIG_NAME="排序.c">
+      <option name="sourceFile" value="指针\排序.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="函数变量变更.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="函数变量变更.c" CONFIG_NAME="函数变量变更.c">
+      <option name="sourceFile" value="指针\函数变量变更.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="指向数组的指针之一维查找.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="指向数组的指针之一维查找.c" CONFIG_NAME="指向数组的指针之一维查找.c">
+      <option name="sourceFile" value="指针\指向数组的指针之一维查找.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="指针引用字符串.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="指针引用字符串.c" CONFIG_NAME="指针引用字符串.c">
+      <option name="sourceFile" value="指针\指针引用字符串.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -123,6 +204,18 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="一般字符串复制.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="一般字符串复制.c" CONFIG_NAME="一般字符串复制.c">
+      <option name="sourceFile" value="指针\一般字符串复制.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="指针字符串复制.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="指针字符串复制.c" CONFIG_NAME="指针字符串复制.c">
+      <option name="sourceFile" value="指针\指针字符串复制.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="外部链接引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部链接引用.c" CONFIG_NAME="外部链接引用.c">
       <option name="sourceFile" value="函数\外部链接引用.c" />
       <method v="2">
@@ -153,57 +246,11 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
-      <option name="sourceFile" value="指针\相反存放.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="函数之公约数与公倍数.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="函数之公约数与公倍数.c" CONFIG_NAME="函数之公约数与公倍数.c">
-      <option name="sourceFile" value="函数\函数之公约数与公倍数.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="外部链接引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部链接引用.c" CONFIG_NAME="外部链接引用.c">
-      <option name="sourceFile" value="函数\外部链接引用.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="外部变量引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部变量引用.c" CONFIG_NAME="外部变量引用.c">
-      <option name="sourceFile" value="函数\外部变量引用.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="外部链接引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部链接引用.c" CONFIG_NAME="外部链接引用.c">
-      <option name="sourceFile" value="函数\外部链接引用.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
-      <option name="sourceFile" value="指针\相反存放.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="排序.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="排序.c" CONFIG_NAME="排序.c">
-      <option name="sourceFile" value="指针\排序.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="函数变量变更.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="函数变量变更.c" CONFIG_NAME="函数变量变更.c">
-      <option name="sourceFile" value="指针\函数变量变更.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ 文件.指向数组的指针.c" />
+        <item itemvalue="C/C++ 文件.字符型指针变量作形参和实参.c" />
+        <item itemvalue="C/C++ 文件.字符型指针作实参.c" />
+        <item itemvalue="C/C++ 文件.字符数组作函数参数.c" />
         <item itemvalue="C/C++ 文件.幻方(魔方阵列).c" />
         <item itemvalue="C/C++ 文件.参数交换.c" />
       </list>
@@ -232,7 +279,9 @@
       <workItem from="1710416684806" duration="200000" />
       <workItem from="1710489510582" duration="109000" />
       <workItem from="1710490705877" duration="3942000" />
-      <workItem from="1710645488710" duration="1134000" />
+      <workItem from="1710645488710" duration="4247000" />
+      <workItem from="1710660844391" duration="5197000" />
+      <workItem from="1710913435292" duration="2751000" />
     </task>
     <servers />
   </component>
