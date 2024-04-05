@@ -17,10 +17,10 @@ int main()
 	struct Student temp;
 	int i,j,k;
 	printf("The order is:\n");
-	for(i=0;i<N-1;i++){
+	for(i=0; i<N-1; i++){
 		k=i;
-		for(j=i+1;j<N;j++){
-			if(stu[j].score>stu[k].score) k=j;
+		for(j=i+1; j<N; j++){
+			if(stu[j].score > stu[k].score) k=j;
 		}
 		temp=stu[k];stu[k]=stu[i];stu[i]=temp;
 	}
