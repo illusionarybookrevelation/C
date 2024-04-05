@@ -7,7 +7,7 @@ struct Student{
 };
 int main()
 {
-	struct Student stu[5]={
+    struct Student stu[5]={
 		{10101,"Zhang",78},
 		{10103,"Wang",98.5},
 		{10106,"Li",86},
@@ -25,7 +25,7 @@ int main()
 		temp=stu[k];stu[k]=stu[i];stu[i]=temp;
 	}
 	for(i=0;i<N;i++){
-		printf("%6d %8s %6.2f\n",stu[i].num,stu[i].name,stu[i].score);
+        printf("%6d %8s %6.2f\n",stu[i].num,stu[i].name,stu[i].score);
 	}
 	printf("\n");
 	return 0;

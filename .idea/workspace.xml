@@ -18,7 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="" />
+    <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/构建数据类型/结构体数组+选择排序.c" beforeDir="false" afterPath="$PROJECT_DIR$/构建数据类型/结构体数组+选择排序.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -291,7 +293,7 @@
       <workItem from="1710913435292" duration="2751000" />
       <workItem from="1711178178819" duration="138000" />
       <workItem from="1712323237411" duration="937000" />
-      <workItem from="1712324198080" duration="525000" />
+      <workItem from="1712324198080" duration="632000" />
     </task>
     <servers />
   </component>
