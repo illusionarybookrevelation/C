@@ -19,12 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/文件/fseek实用案列.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文件/rewind和fseek以及ftell.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件/rewind和fseek.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件/写入文件.c" beforeDir="false" afterPath="$PROJECT_DIR$/文件/写入文件.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/file/copy_one.txt" beforeDir="false" afterPath="$PROJECT_DIR$/文件/file/copy_one.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +82,7 @@
       <recent name="D:\C Language\C\位运算" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.rewind和fseek以及ftell.c">
+  <component name="RunManager" selected="C/C++ 文件.fgetc与fputc.c">
     <configuration name="写入文件.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="写入文件.c" CONFIG_NAME="写入文件.c">
       <option name="sourceFile" value="文件\写入文件.c" />
       <method v="2">
@@ -274,14 +269,14 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fprintf与fscanf.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="fprintf与fscanf.c" CONFIG_NAME="fprintf与fscanf.c">
-      <option name="sourceFile" value="文件\fprintf与fscanf.c" />
+    <configuration name="fgetc与fputc.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="fgetc与fputc.c" CONFIG_NAME="fgetc与fputc.c">
+      <option name="sourceFile" value="文件\fgetc与fputc.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fread与fwrite.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="fread与fwrite.c" CONFIG_NAME="fread与fwrite.c">
-      <option name="sourceFile" value="文件\fread与fwrite.c" />
+    <configuration name="fprintf与fscanf.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="fprintf与fscanf.c" CONFIG_NAME="fprintf与fscanf.c">
+      <option name="sourceFile" value="文件\fprintf与fscanf.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -300,11 +295,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.fgetc与fputc.c" />
         <item itemvalue="C/C++ 文件.rewind和fseek以及ftell.c" />
         <item itemvalue="C/C++ 文件.写入文件.c" />
         <item itemvalue="C/C++ 文件.fseek实用案列.c" />
         <item itemvalue="C/C++ 文件.fprintf与fscanf.c" />
-        <item itemvalue="C/C++ 文件.fread与fwrite.c" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +336,7 @@
       <workItem from="1712396899193" duration="751000" />
       <workItem from="1712397664066" duration="1656000" />
       <workItem from="1712404173877" duration="693000" />
-      <workItem from="1712404885283" duration="7727000" />
+      <workItem from="1712404885283" duration="8091000" />
     </task>
     <servers />
   </component>
