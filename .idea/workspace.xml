@@ -19,8 +19,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/纪元/何人绽放的花期.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件/fgetc与fputc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件/fgets和fputs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件/fprintf与fscanf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件/fread与fwrite.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件/rewind和fseek.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件/写入文件.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件/file/sky_one.txt" beforeDir="false" afterPath="$PROJECT_DIR$/文件/file/sky_one.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,21 +77,9 @@
       <recent name="D:\C Language\C\位运算" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.何人绽放的花期.c">
-    <configuration name="幻方(魔方阵列).c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="幻方(魔方阵列).c" CONFIG_NAME="幻方(魔方阵列).c">
-      <option name="sourceFile" value="数组\幻方(魔方阵列).c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="参数交换.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="参数交换.c" CONFIG_NAME="参数交换.c">
-      <option name="sourceFile" value="指针\参数交换.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="何人绽放的花期.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="何人绽放的花期.c" CONFIG_NAME="何人绽放的花期.c">
-      <option name="sourceFile" value="纪元\何人绽放的花期.c" />
+  <component name="RunManager" selected="C/C++ 文件.fprintf与fscanf.c">
+    <configuration name="写入文件.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="写入文件.c" CONFIG_NAME="写入文件.c">
+      <option name="sourceFile" value="文件\写入文件.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -275,18 +270,37 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="void指针类型.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="void指针类型.c" CONFIG_NAME="void指针类型.c">
-      <option name="sourceFile" value="指针\void指针类型.c" />
+    <configuration name="fgetc与fputc.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="fgetc与fputc.c" CONFIG_NAME="fgetc与fputc.c">
+      <option name="sourceFile" value="文件\fgetc与fputc.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fgets和fputs.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="fgets和fputs.c" CONFIG_NAME="fgets和fputs.c">
+      <option name="sourceFile" value="文件\fgets和fputs.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fprintf与fscanf.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="fprintf与fscanf.c" CONFIG_NAME="fprintf与fscanf.c">
+      <option name="sourceFile" value="文件\fprintf与fscanf.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fread与fwrite.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="fread与fwrite.c" CONFIG_NAME="fread与fwrite.c">
+      <option name="sourceFile" value="文件\fread与fwrite.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ 文件.何人绽放的花期.c" />
-        <item itemvalue="C/C++ 文件.void指针类型.c" />
-        <item itemvalue="C/C++ 文件.参数交换.c" />
-        <item itemvalue="C/C++ 文件.幻方(魔方阵列).c" />
+        <item itemvalue="C/C++ 文件.fprintf与fscanf.c" />
+        <item itemvalue="C/C++ 文件.fread与fwrite.c" />
+        <item itemvalue="C/C++ 文件.fgets和fputs.c" />
+        <item itemvalue="C/C++ 文件.fgetc与fputc.c" />
+        <item itemvalue="C/C++ 文件.写入文件.c" />
       </list>
     </recent_temporary>
   </component>
@@ -319,12 +333,23 @@
       <workItem from="1711178178819" duration="138000" />
       <workItem from="1712323237411" duration="937000" />
       <workItem from="1712324198080" duration="3618000" />
-      <workItem from="1712374011465" duration="917000" />
+      <workItem from="1712374011465" duration="8867000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

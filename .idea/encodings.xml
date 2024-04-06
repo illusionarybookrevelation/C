@@ -10,6 +10,11 @@
     <file url="file://$PROJECT_DIR$/函数/函数之公约数与公倍数.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/函数/函数之素数.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/指针/排序.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/文件/fgetc与fputc.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/文件/fgets和fputs.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/文件/fprintf与fscanf.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/文件/fread与fwrite.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/文件/rewind和fseek.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/文件/初识文件.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/文件/文件读写字符.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/纪元/何人绽放的花期.c" charset="GBK" />
