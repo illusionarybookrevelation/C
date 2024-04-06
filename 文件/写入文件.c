@@ -2,10 +2,18 @@
 
 int main()
 {
-    FILE *fp = NULL;
-    fp = fopen(".\\文件\\file\\writing_one.txt","w+");
-    fprintf(fp,"This is writing for fprintf....\n");
-    fputs("This is writing for fputs....\n",fp);
+    FILE *fp;
+    int error = fopen_s(&fp,"write.txt","w+");
+    if (error != 0) {
+        // 处理错误情况
+        //fprintf(stderr, "Error opening file.\n");
+        perror("fp");
+        return 1;
+    }
+    char str[100];
+    printf("Enter result: ");
+    scanf("%s",str);
+    fprintf(fp,"%s",str);
     fclose(fp);
     return 0;
 }
