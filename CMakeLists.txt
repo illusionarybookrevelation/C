@@ -17,7 +17,9 @@ file (GLOB files test/*.cpp)
 
 foreach (file ${files})
     string(REGEX REPLACE ".+/(.+)\\..*" "\\1" exe ${file})
-    add_executable (${exe} ${file})
+    add_executable (${exe} ${file}
+            预处理/宏定义.c
+            预处理/宏定义.c)
     message (\ \ \ \ --\ src/${exe}.cpp\ will\ be\ compiled\ to\ bin/${exe})
 endforeach ()
 

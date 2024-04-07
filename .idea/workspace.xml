@@ -18,9 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/文件/file/copy_one.txt" beforeDir="false" afterPath="$PROJECT_DIR$/文件/file/copy_one.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "C/C++ 文件.fgetc与fputc.c.executor": "Run",
     "C/C++ 文件.fseek实用案列.c.executor": "Run",
     "C/C++ 文件.rewind和fseek.c.executor": "Run",
     "C/C++ 文件.rewind和fseek以及ftell.c.executor": "Run",
@@ -336,7 +335,7 @@
       <workItem from="1712396899193" duration="751000" />
       <workItem from="1712397664066" duration="1656000" />
       <workItem from="1712404173877" duration="693000" />
-      <workItem from="1712404885283" duration="8091000" />
+      <workItem from="1712404885283" duration="8242000" />
     </task>
     <servers />
   </component>
