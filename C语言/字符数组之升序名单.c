@@ -7,7 +7,7 @@ int main()
 	char str[20],name[N][20];
 	int i,j,p;
 	for(i=0;i<N;i++){
-		printf("è¾“å…¥ç¬¬%dä½åŒå­¦çš„åå­—ï¼š",i+1);
+		printf("ÊäÈëµÚ%dÎ»Í¬Ñ§µÄÃû×Ö£º",i+1);
 		gets(name[i]);
 	}
 	
@@ -23,9 +23,9 @@ int main()
 			}
 		}
 	}
-	printf("å‡åºåŽçš„åå•:\n");
+	printf("ÉýÐòºóµÄÃûµ¥:\n");
 	for(j=0;j<N;j++){
-		printf("ç¬¬%2dä½:%s\n",j+1,name[j]);
+		printf("µÚ%2dÎ»:%s\n",j+1,name[j]);
 	}
 	return 0;
 }

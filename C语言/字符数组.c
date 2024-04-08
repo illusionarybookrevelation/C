@@ -9,5 +9,9 @@ int main()
 	printf("%d\n",sizeof(ch2));
 	printf("%d\n",strlen(ch1));
 	printf("%d\n",strlen(ch2));
+    printf("%p\n",&ch2);
+    printf("%p\n",&ch2[0]);
+    printf("%p\n",&ch2[1]);
+    printf("%p\n",&ch2[4]);
 	return 0;
 }

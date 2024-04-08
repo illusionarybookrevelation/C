@@ -27,7 +27,9 @@ int main()
         }
     }
 
-    for (int i = 0; i < sizeof(rank)/sizeof(int); ++i) {
+    for (int i = 0; i < sizeof(rank)/sizeof(int); i++) {
         printf("%d ",rank[i]);
     }
+
+    return 0;
 }

@@ -6,6 +6,7 @@ int main()
     //算术运算符
     cout << "1 + 2 = " << 1 + 2 <<endl;
     cout << "1 + 2 - 3 x 4 = " << 1 + 2 - 3 * 4 <<endl;     //先乘除，后加减
+    cout << "result: " << (4.2/6+1/2+55%10) << endl;
 
     int a = 20, b = 6;
     cout << "a + b = " << a + b << endl;

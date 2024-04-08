@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/C++/流程控制语句/heart.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/C++/流程控制语句/prime_number.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/C++/运算符/operator.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/C语言/n的阶乘-for.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/C语言/字符数组.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/C语言/字符数组之升序名单.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/C语言/选择排序法.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/位运算/位运算.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/位运算/原码反码补码.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/函数/3x3数组转置.c" charset="GBK" />
@@ -18,6 +22,12 @@
     <file url="file://$PROJECT_DIR$/文件/rewind和fseek以及ftell.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/文件/初识文件.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/文件/文件读写字符.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/真题/二维数组的最大元素以及所在行列.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/纪元/何人绽放的花期.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/预处理/include指令.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/预处理/宏定义.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/预处理/条件编译.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/预处理/条件编译之条件判断.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
