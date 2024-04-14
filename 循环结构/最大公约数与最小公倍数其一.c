@@ -2,18 +2,18 @@
 
 int main()
 {
-    int m,n,k,s;                            /*æ±‚æœ€å¤§å…¬çº¦æ•°*/
+    int m,n,k,s;                            /*Çó×î´ó¹«Ô¼Êý*/
     scanf("%d %d",&m,&n);
-    k = m%n;                   //ä¸¤æ•°ç›¸é™¤å–ä½™æ•°
-    s = m*n;                    //æ±‚ä¸¤æ•°ä¹‹ç§¯
+    k = m%n;                   //Á½ÊýÏà³ýÈ¡ÓàÊý
+    s = m*n;                    //ÇóÁ½ÊýÖ®»ý
     while(k!=0){
-        m = n;                 //å½“ä½™æ•°kä¸ç­‰äºŽ0æ—¶å°†é™¤æ•°nèµ‹ç»™è¢«é™¤æ•°m
-        n = k;                  //ä½™æ•°kèµ‹ç»™é™¤æ•°n
-        k = m%n;                //å†æ¬¡è®¡ç®—kï¼Œç›´è‡³kä¸º0æ—¶å¾ªçŽ¯ç»“æŸï¼Œæ­¤æ—¶nå³ä¸ºæœ€å¤§å…¬çº¦æ•°
+        m = n;                 //µ±ÓàÊýk²»µÈÓÚ0Ê±½«³ýÊýn¸³¸ø±»³ýÊým
+        n = k;                  //ÓàÊýk¸³¸ø³ýÊýn
+        k = m%n;                //ÔÙ´Î¼ÆËãk£¬Ö±ÖÁkÎª0Ê±Ñ­»·½áÊø£¬´ËÊ±n¼´Îª×î´ó¹«Ô¼Êý
     }
-    s = s/n;                            /*æ±‚æœ€å°å…¬å€æ•°ï¼Œå°†ä¸¤æ•°ä¹‹ç§¯é™¤ä»¥æœ€å¤§å…¬çº¦æ•°æ–¹å¯å¾—å‡º*/
-    printf("æœ€å¤§å…¬çº¦æ•°ä¸ºï¼š%d\n",n);
-    printf("æœ€å°å…¬å€æ•°ä¸ºï¼š%d\n",s);
+    s = s/n;                            /*Çó×îÐ¡¹«±¶Êý£¬½«Á½ÊýÖ®»ý³ýÒÔ×î´ó¹«Ô¼Êý·½¿ÉµÃ³ö*/
+    printf("×î´ó¹«Ô¼ÊýÎª£º%d\n",n);
+    printf("×îÐ¡¹«±¶ÊýÎª£º%d\n",s);
     return 0;
 }
 

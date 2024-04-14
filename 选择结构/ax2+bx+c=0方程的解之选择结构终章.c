@@ -1,11 +1,10 @@
 #include <stdio.h>
-#include <math.h>                   /*有以下几种可能：
+#include <math.h>                   /* 有以下几种可能：
  *                                  (1)a=0,不是二次方程
  *                                  (2)b2-4ac=0,有两个相等的实根
  *                                  (3)b2-4ac>0,有两个不等实根
  *                                  (4)b2-4ac<0,有两个共轭复根。应当以p+qi和p-qi的形式输出复根。其中，
- *                                  p=-b/2a,q=sqrt(b2-4ac)/2a*/
-
+ *                                  p=-b/2a,q=sqrt(b2-4ac)/2a */
 int main()
 {
     double a,b,c,disc,x1,x2,realpart,imagpart;
@@ -24,7 +23,7 @@ int main()
                 printf("has distinct real roots:%8.4f and %6.4f\n",x1,x2);
             }else{
                 realpart=-b/(2*a);          //realpart是复根的实部
-                imagpart=sqrt(-disc)/(2*a);     //imagpart是复根的虚部
+                imagpart=sqrt(disc)/(2*a);     //imagpart是复根的虚部
                 printf("has complex roots:\n");
                 printf("%8.4f+%6.4fi\n",realpart,imagpart);     //输出一个复数
                 printf("%8.4f-%6.4fi\n",realpart,imagpart);     //输出另一个复数
