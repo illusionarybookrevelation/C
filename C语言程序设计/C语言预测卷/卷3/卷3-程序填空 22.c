@@ -8,7 +8,7 @@ int main()
     for(i=0;i<N;i++) {
         scanf("%d", a + i);
     }
-    for(i=N;i>=1;i--){
+    for(i=N-1;i>=1;i--){
         for(j=0;j<i;j++){
             if(a[j]>a[j+1]){
                 t = a[j+1];
