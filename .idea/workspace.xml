@@ -18,26 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-填空题 2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-填空题 7.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-程序填空 21.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-程序填空 22.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-程序填空 23.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-程序设计 24.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-程序设计 25.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-读程序写结果 16.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-读程序写结果 17.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-读程序写结果 18.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷4/卷4-读程序写结果 19.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/不算偶数的阶乘.c" beforeDir="false" afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/不算偶数的阶乘.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷3/卷3-程序填空 22.c" beforeDir="false" afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷3/卷3-程序填空 22.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷3/卷3-程序设计 24.c" beforeDir="false" afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷3/卷3-程序设计 24.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-17T15-13-33-0771.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -502,7 +483,7 @@
       <workItem from="1713368205380" duration="723000" />
       <workItem from="1713403166799" duration="1298000" />
       <workItem from="1713432452164" duration="53000" />
-      <workItem from="1713445366308" duration="6016000" />
+      <workItem from="1713445366308" duration="6154000" />
     </task>
     <servers />
   </component>
