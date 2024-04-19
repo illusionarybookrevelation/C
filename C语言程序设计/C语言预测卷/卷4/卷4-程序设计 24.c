@@ -1,7 +1,5 @@
 #include <stdio.h>
-#include <conio.h>
 #define M 10
-void TestFunc();
 int fun(int bb[],int y){
     int count=M,c,i;
     for(i=0;i<M;i++){
@@ -11,6 +9,7 @@ int fun(int bb[],int y){
             }
             count--;
             bb[count] = 0;
+            i--;
         }
     }
     return count;
