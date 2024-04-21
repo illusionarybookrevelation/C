@@ -18,38 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-填空题 11.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-填空题 15.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-填空题 16.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-填空题 17.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-程序设计 1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-程序设计 2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-读程序题 1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-读程序题目 2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-读程序题目 3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-读程序题目 4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷6/卷6-读程序题目 5.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/指针值的交换.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-880688a4e4fa21f3d8eb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-67b05dcfe6afc95c9709.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-19T09-03-01-0446.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-    </list>
+    <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -525,7 +494,7 @@
       <workItem from="1713519200290" duration="1379000" />
       <workItem from="1713611887897" duration="10993000" />
       <workItem from="1713625566984" duration="125000" />
-      <workItem from="1713663162123" duration="615000" />
+      <workItem from="1713663162123" duration="672000" />
     </task>
     <servers />
   </component>
