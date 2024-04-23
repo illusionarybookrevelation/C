@@ -19,21 +19,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷7/卷7-填空题 26.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷7/卷7-填空题 27.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷7/卷7-编程题 1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷7/卷7-编程题 2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷7/卷7-编程题 3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷8/卷8-填空题 8.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷8/卷8-程序填空 1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷8/卷8-程序填空 2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷8/卷8-编程题 1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷8/卷8-编程题 2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷9/卷9-编程题 4-1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷9/卷9-编程题 4-2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷9/卷9-编程题 4-3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷9/卷9-编程题 5-1（自创）.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷9/卷9-编程题 5-2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/奇怪的宏定义.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-20T13-49-50-0162.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-22T12-11-27-0245.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,8 +143,16 @@
     "C/C++ 文件.卷8-程序填空 2.c.executor": "Run",
     "C/C++ 文件.卷8-编程题 1.c.executor": "Run",
     "C/C++ 文件.卷8-编程题 2.c.executor": "Run",
+    "C/C++ 文件.卷8-编程题 3.c.executor": "Run",
+    "C/C++ 文件.卷9-编程题 4-1.c.executor": "Run",
+    "C/C++ 文件.卷9-编程题 4-2.c.executor": "Run",
+    "C/C++ 文件.卷9-编程题 4-3.c.executor": "Run",
+    "C/C++ 文件.卷9-编程题 5-1.c (1).executor": "Run",
+    "C/C++ 文件.卷9-编程题 5-1.c.executor": "Run",
+    "C/C++ 文件.卷9-编程题 5-2.c.executor": "Run",
     "C/C++ 文件.圆的相关计算.c.executor": "Run",
     "C/C++ 文件.填空题 7.c.executor": "Run",
+    "C/C++ 文件.奇怪的宏定义.c.executor": "Run",
     "C/C++ 文件.字符数组.c.executor": "Run",
     "C/C++ 文件.字符数组之升序名单.c.executor": "Run",
     "C/C++ 文件.存款利息其二.c.executor": "Run",
@@ -212,26 +214,14 @@
       <recent name="D:\C Language\C\位运算" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.卷8-编程题 3.c">
+  <component name="RunManager" selected="C/C++ 文件.卷9-编程题 5-2.c">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="卷8-程序填空 1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷8-程序填空 1.c" CONFIG_NAME="卷8-程序填空 1.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷8\卷8-程序填空 1.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="卷8-编程题 1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷8-编程题 1.c" CONFIG_NAME="卷8-编程题 1.c">
       <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷8\卷8-编程题 1.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="卷8-程序填空 2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷8-程序填空 2.c" CONFIG_NAME="卷8-程序填空 2.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷8\卷8-程序填空 2.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -242,104 +232,32 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="卷8-编程题 3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷8-编程题 3.c" CONFIG_NAME="卷8-编程题 3.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷8\卷8-编程题 3.c" />
+    <configuration name="卷9-编程题 4-1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷9-编程题 4-1.c" CONFIG_NAME="卷9-编程题 4-1.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷9\卷9-编程题 4-1.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="函数之公约数与公倍数.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="函数之公约数与公倍数.c" CONFIG_NAME="函数之公约数与公倍数.c">
-      <option name="sourceFile" value="函数\函数之公约数与公倍数.c" />
+    <configuration name="卷9-编程题 4-3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷9-编程题 4-3.c" CONFIG_NAME="卷9-编程题 4-3.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷9\卷9-编程题 4-3.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
-      <option name="sourceFile" value="指针\相反存放.c" />
+    <configuration name="卷9-编程题 5-1.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷9-编程题 5-1.c" CONFIG_NAME="卷9-编程题 5-1.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷9\卷9-编程题 5-1（自创）.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="外部变量引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部变量引用.c" CONFIG_NAME="外部变量引用.c">
-      <option name="sourceFile" value="函数\外部变量引用.c" />
+    <configuration name="卷9-编程题 5-1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷9-编程题 5-1.c" CONFIG_NAME="卷9-编程题 5-1.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷9\卷9-编程题 5-1.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="购房还款.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="购房还款.c" CONFIG_NAME="购房还款.c">
-      <option name="sourceFile" value="数据\购房还款.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="。。。.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="。。。.c" CONFIG_NAME="。。。.c">
-      <option name="sourceFile" value="C语言\。。。.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="同名.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="同名.c" CONFIG_NAME="同名.c">
-      <option name="sourceFile" value="函数\同名.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="函数变量变更.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="函数变量变更.c" CONFIG_NAME="函数变量变更.c">
-      <option name="sourceFile" value="指针\函数变量变更.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="语法错误.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="语法错误.c" CONFIG_NAME="语法错误.c">
-      <option name="sourceFile" value="程序设计\语法错误.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符型指针作实参.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="字符型指针作实参.c" CONFIG_NAME="字符型指针作实参.c">
-      <option name="sourceFile" value="指针\字符型指针作实参.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="反序存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="反序存放.c" CONFIG_NAME="反序存放.c">
-      <option name="sourceFile" value="函数\反序存放.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="静态局部变量阶乘.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量阶乘.c" CONFIG_NAME="静态局部变量阶乘.c">
-      <option name="sourceFile" value="函数\静态局部变量阶乘.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="一般字符串复制.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="一般字符串复制.c" CONFIG_NAME="一般字符串复制.c">
-      <option name="sourceFile" value="指针\一般字符串复制.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="三元运算符输出最大值.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="三元运算符输出最大值.c" CONFIG_NAME="三元运算符输出最大值.c">
-      <option name="sourceFile" value="程序设计\选择结构\三元运算符输出最大值.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="顺序输出.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="顺序输出.c" CONFIG_NAME="顺序输出.c">
-      <option name="sourceFile" value="指针\顺序输出.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="外部链接引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部链接引用.c" CONFIG_NAME="外部链接引用.c">
-      <option name="sourceFile" value="函数\外部链接引用.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最大公约数与最小公倍数其一.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="最大公约数与最小公倍数其一.c" CONFIG_NAME="最大公约数与最小公倍数其一.c">
-      <option name="sourceFile" value="循环结构\最大公约数与最小公倍数其一.c" />
+    <configuration name="卷9-编程题 5-2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷9-编程题 5-2.c" CONFIG_NAME="卷9-编程题 5-2.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷9\卷9-编程题 5-2.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -358,6 +276,12 @@
     </configuration>
     <configuration name="递归求最大公约数.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="递归求最大公约数.c" CONFIG_NAME="递归求最大公约数.c">
       <option name="sourceFile" value="循环结构\递归求最大公约数.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
+      <option name="sourceFile" value="指针\相反存放.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -398,6 +322,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="奇怪的宏定义.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="奇怪的宏定义.c" CONFIG_NAME="奇怪的宏定义.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\奇怪的宏定义.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="字符型指针变量作形参和实参.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="字符型指针变量作形参和实参.c" CONFIG_NAME="字符型指针变量作形参和实参.c">
       <option name="sourceFile" value="指针\字符型指针变量作形参和实参.c" />
       <method v="2">
@@ -422,6 +352,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="外部变量引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部变量引用.c" CONFIG_NAME="外部变量引用.c">
+      <option name="sourceFile" value="函数\外部变量引用.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="递归求最大公约数.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="递归求最大公约数.c" CONFIG_NAME="递归求最大公约数.c">
       <option name="sourceFile" value="循环结构\递归求最大公约数.c" />
       <method v="2">
@@ -434,13 +370,91 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="购房还款.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="购房还款.c" CONFIG_NAME="购房还款.c">
+      <option name="sourceFile" value="数据\购房还款.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="。。。.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="。。。.c" CONFIG_NAME="。。。.c">
+      <option name="sourceFile" value="C语言\。。。.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="同名.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="同名.c" CONFIG_NAME="同名.c">
+      <option name="sourceFile" value="函数\同名.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="反序存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="反序存放.c" CONFIG_NAME="反序存放.c">
+      <option name="sourceFile" value="函数\反序存放.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="函数变量变更.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="函数变量变更.c" CONFIG_NAME="函数变量变更.c">
+      <option name="sourceFile" value="指针\函数变量变更.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="语法错误.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="语法错误.c" CONFIG_NAME="语法错误.c">
+      <option name="sourceFile" value="程序设计\语法错误.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符型指针作实参.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="字符型指针作实参.c" CONFIG_NAME="字符型指针作实参.c">
+      <option name="sourceFile" value="指针\字符型指针作实参.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="静态局部变量阶乘.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量阶乘.c" CONFIG_NAME="静态局部变量阶乘.c">
+      <option name="sourceFile" value="函数\静态局部变量阶乘.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="一般字符串复制.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="一般字符串复制.c" CONFIG_NAME="一般字符串复制.c">
+      <option name="sourceFile" value="指针\一般字符串复制.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="三元运算符输出最大值.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="三元运算符输出最大值.c" CONFIG_NAME="三元运算符输出最大值.c">
+      <option name="sourceFile" value="程序设计\选择结构\三元运算符输出最大值.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="顺序输出.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="顺序输出.c" CONFIG_NAME="顺序输出.c">
+      <option name="sourceFile" value="指针\顺序输出.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="外部链接引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部链接引用.c" CONFIG_NAME="外部链接引用.c">
+      <option name="sourceFile" value="函数\外部链接引用.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大公约数与最小公倍数其一.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="最大公约数与最小公倍数其一.c" CONFIG_NAME="最大公约数与最小公倍数其一.c">
+      <option name="sourceFile" value="循环结构\最大公约数与最小公倍数其一.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ 文件.卷8-编程题 3.c" />
-        <item itemvalue="C/C++ 文件.卷8-编程题 2.c" />
-        <item itemvalue="C/C++ 文件.卷8-编程题 1.c" />
-        <item itemvalue="C/C++ 文件.卷8-程序填空 2.c" />
-        <item itemvalue="C/C++ 文件.卷8-程序填空 1.c" />
+        <item itemvalue="C/C++ 文件.卷9-编程题 5-2.c" />
+        <item itemvalue="C/C++ 文件.卷9-编程题 5-1.c (1)" />
+        <item itemvalue="C/C++ 文件.卷9-编程题 4-1.c" />
+        <item itemvalue="C/C++ 文件.卷9-编程题 5-1.c" />
+        <item itemvalue="C/C++ 文件.卷9-编程题 4-3.c" />
       </list>
     </recent_temporary>
   </component>
@@ -512,7 +526,9 @@
       <workItem from="1713683317320" duration="6807000" />
       <workItem from="1713703295709" duration="47000" />
       <workItem from="1713704091131" duration="147000" />
-      <workItem from="1713778740061" duration="2424000" />
+      <workItem from="1713778740061" duration="2640000" />
+      <workItem from="1713788987336" duration="124000" />
+      <workItem from="1713863658885" duration="3379000" />
     </task>
     <servers />
   </component>
