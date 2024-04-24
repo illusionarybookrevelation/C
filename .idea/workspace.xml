@@ -19,15 +19,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a89864-4cd7-49c6-b09e-ad6c494b2842" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷9/卷9-编程题 4-1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷9/卷9-编程题 4-2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷9/卷9-编程题 4-3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷9/卷9-编程题 5-1（自创）.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷9/卷9-编程题 5-2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/奇怪的宏定义.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷10/卷10-填空题 10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷10/卷10-程序分析题 1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷10/卷10-程序分析题 2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷10/卷10-程序分析题 3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷10/卷10-程序分析题 4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷10/卷10-程序填空题 1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷10/卷10-程序填空题 2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷10/卷10-编程题 1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C语言程序设计/C语言预测卷/卷10/卷10-编程题 2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-22T12-11-27-0245.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-23T09-50-12-0492.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,231 +67,217 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "C/C++ 文件.123.c (1).executor": "Run",
-    "C/C++ 文件.123.c.executor": "Run",
-    "C/C++ 文件.123.cpp.executor": "Run",
-    "C/C++ 文件.19.c.executor": "Debug",
-    "C/C++ 文件.Hello World.cpp.executor": "Run",
-    "C/C++ 文件.ax2+bx+c=0方程的解之选择结构终章.c.executor": "Run",
-    "C/C++ 文件.fgetc与fputc.c.executor": "Run",
-    "C/C++ 文件.fseek实用案列.c.executor": "Run",
-    "C/C++ 文件.include指令.c.executor": "Run",
-    "C/C++ 文件.operator.cpp.executor": "Run",
-    "C/C++ 文件.rewind和fseek.c.executor": "Run",
-    "C/C++ 文件.rewind和fseek以及ftell.c.executor": "Run",
-    "C/C++ 文件.三元运算符输出最大值.c.executor": "Run",
-    "C/C++ 文件.不算偶数的阶乘.c.executor": "Run",
-    "C/C++ 文件.二维数组的最大元素以及所在行列.c.executor": "Run",
-    "C/C++ 文件.写入文件.c.executor": "Run",
-    "C/C++ 文件.函数3.c.executor": "Run",
-    "C/C++ 文件.卷1-程序运行输出结果 18.c.executor": "Run",
-    "C/C++ 文件.卷2-程序填空 18.c.executor": "Run",
-    "C/C++ 文件.卷2-程序填空 21.c.executor": "Run",
-    "C/C++ 文件.卷2-程序设计 22.c.executor": "Run",
-    "C/C++ 文件.卷2-程序设计 23.c.executor": "Run",
-    "C/C++ 文件.卷2-程序设计 24.c.executor": "Run",
-    "C/C++ 文件.卷2-程序设计 25.c.executor": "Run",
-    "C/C++ 文件.卷3-填空题 10.c.executor": "Run",
-    "C/C++ 文件.卷3-程序填空 20.c.executor": "Run",
-    "C/C++ 文件.卷3-程序填空 21.c.executor": "Run",
-    "C/C++ 文件.卷3-程序填空 22.c.executor": "Run",
-    "C/C++ 文件.卷3-程序填空 23.c.executor": "Run",
-    "C/C++ 文件.卷3-程序设计 24.c.executor": "Run",
-    "C/C++ 文件.卷3-程序设计 25.c.executor": "Run",
-    "C/C++ 文件.卷3-读程序写结果 16.c.executor": "Run",
-    "C/C++ 文件.卷3-读程序写结果 17.c.executor": "Run",
-    "C/C++ 文件.卷3-读程序写结果 18.c.executor": "Run",
-    "C/C++ 文件.卷3-读程序写结果 19.c.executor": "Run",
-    "C/C++ 文件.卷4-填空题 7.c.executor": "Run",
-    "C/C++ 文件.卷4-程序填空 21.c.executor": "Run",
-    "C/C++ 文件.卷4-程序填空 22.c.executor": "Run",
-    "C/C++ 文件.卷4-程序填空 23.c.executor": "Run",
-    "C/C++ 文件.卷4-程序设计 24.c.executor": "Run",
-    "C/C++ 文件.卷4-程序设计 25.c.executor": "Run",
-    "C/C++ 文件.卷4-读程序写结果 16.c.executor": "Run",
-    "C/C++ 文件.卷4-读程序写结果 17.c.executor": "Run",
-    "C/C++ 文件.卷4-读程序写结果 18.c.executor": "Run",
-    "C/C++ 文件.卷4-读程序写结果 19.c.executor": "Run",
-    "C/C++ 文件.卷4-读程序写结果 20.c.executor": "Run",
-    "C/C++ 文件.卷5-程序填空 21.c.executor": "Run",
-    "C/C++ 文件.卷5-程序填空 22.c.executor": "Run",
-    "C/C++ 文件.卷5-程序填空 23.c.executor": "Run",
-    "C/C++ 文件.卷5-程序设计 24.c.executor": "Run",
-    "C/C++ 文件.卷5-程序设计 25.c.executor": "Run",
-    "C/C++ 文件.卷5-读程序写结果 16.c.executor": "Run",
-    "C/C++ 文件.卷5-读程序写结果 17.c.executor": "Run",
-    "C/C++ 文件.卷5-读程序写结果 18.c.executor": "Run",
-    "C/C++ 文件.卷5-读程序写结果 19.c.executor": "Run",
-    "C/C++ 文件.卷5-读程序写结果 20.c.executor": "Run",
-    "C/C++ 文件.卷6-填空题 11.c.executor": "Run",
-    "C/C++ 文件.卷6-填空题 15.c.executor": "Run",
-    "C/C++ 文件.卷6-填空题 16.c.executor": "Run",
-    "C/C++ 文件.卷6-填空题 17.c.executor": "Run",
-    "C/C++ 文件.卷6-程序设计 1.c.executor": "Run",
-    "C/C++ 文件.卷6-程序设计 2.c.executor": "Run",
-    "C/C++ 文件.卷6-读程序题 1.c.executor": "Run",
-    "C/C++ 文件.卷6-读程序题目 2.c.executor": "Run",
-    "C/C++ 文件.卷6-读程序题目 3.c.executor": "Run",
-    "C/C++ 文件.卷6-读程序题目 4.c.executor": "Run",
-    "C/C++ 文件.卷6-读程序题目 5.c.executor": "Run",
-    "C/C++ 文件.卷7-填空题 26.c.executor": "Run",
-    "C/C++ 文件.卷7-填空题 27.c.executor": "Run",
-    "C/C++ 文件.卷7-编程题 1.c.executor": "Run",
-    "C/C++ 文件.卷7-编程题 2.c.executor": "Run",
-    "C/C++ 文件.卷7-编程题 3.c.executor": "Run",
-    "C/C++ 文件.卷8-填空题 8.c.executor": "Run",
-    "C/C++ 文件.卷8-程序填空 1.c.executor": "Run",
-    "C/C++ 文件.卷8-程序填空 2.c.executor": "Run",
-    "C/C++ 文件.卷8-编程题 1.c.executor": "Run",
-    "C/C++ 文件.卷8-编程题 2.c.executor": "Run",
-    "C/C++ 文件.卷8-编程题 3.c.executor": "Run",
-    "C/C++ 文件.卷9-编程题 4-1.c.executor": "Run",
-    "C/C++ 文件.卷9-编程题 4-2.c.executor": "Run",
-    "C/C++ 文件.卷9-编程题 4-3.c.executor": "Run",
-    "C/C++ 文件.卷9-编程题 5-1.c (1).executor": "Run",
-    "C/C++ 文件.卷9-编程题 5-1.c.executor": "Run",
-    "C/C++ 文件.卷9-编程题 5-2.c.executor": "Run",
-    "C/C++ 文件.圆的相关计算.c.executor": "Run",
-    "C/C++ 文件.填空题 7.c.executor": "Run",
-    "C/C++ 文件.奇怪的宏定义.c.executor": "Run",
-    "C/C++ 文件.字符数组.c.executor": "Run",
-    "C/C++ 文件.字符数组之升序名单.c.executor": "Run",
-    "C/C++ 文件.存款利息其二.c.executor": "Run",
-    "C/C++ 文件.宏定义.c.executor": "Run",
-    "C/C++ 文件.小于1000的正数输出它的平方根.c.executor": "Run",
-    "C/C++ 文件.幻方(魔方阵列).c.executor": "Run",
-    "C/C++ 文件.打印2~500之间所有素数，并求和.c.executor": "Run",
-    "C/C++ 文件.打印菱形-中空.c.executor": "Run",
-    "C/C++ 文件.指针值的交换.c.executor": "Run",
-    "C/C++ 文件.指针指向一维数组取值.c.executor": "Run",
-    "C/C++ 文件.指针数组1.c.executor": "Run",
-    "C/C++ 文件.数学函数求值.c.executor": "Run",
-    "C/C++ 文件.整型转字符型运算测试-18题.c.executor": "Run",
-    "C/C++ 文件.最大公约数与最小公倍数其一.c.executor": "Run",
-    "C/C++ 文件.条件编译.c.executor": "Run",
-    "C/C++ 文件.条件编译之条件判断.c.executor": "Run",
-    "C/C++ 文件.杨辉三角.c.executor": "Run",
-    "C/C++ 文件.测试.c.executor": "Run",
-    "C/C++ 文件.程序填空 21.c.executor": "Run",
-    "C/C++ 文件.程序填空 22.c.executor": "Run",
-    "C/C++ 文件.程序填空 23.c.executor": "Run",
-    "C/C++ 文件.程序设计 24.c.executor": "Run",
-    "C/C++ 文件.程序设计 25.c.executor": "Run",
-    "C/C++ 文件.程序运行输出结果 19.c (1).executor": "Run",
-    "C/C++ 文件.程序运行输出结果 19.c.executor": "Debug",
-    "C/C++ 文件.程序运行输出结果 20.c.executor": "Run",
-    "C/C++ 文件.程序运行输出结果1.c.executor": "Run",
-    "C/C++ 文件.表达式的值.c.executor": "Run",
-    "C/C++ 文件.语法错误.c.executor": "Run",
-    "C/C++ 文件.读程序写结果 19.c.executor": "Run",
-    "C/C++ 文件.读程序写结果 20.c.executor": "Run",
-    "C/C++ 文件.购房还款.c.executor": "Run",
-    "C/C++ 文件.输出3个数中最大的那个数.c.executor": "Run",
-    "C/C++ 文件.选择排序法.c.executor": "Run",
-    "C/C++ 文件.递归求最大公约数.c.executor": "Run",
-    "C/C++ 文件.逻辑表达式的值.c.executor": "Run",
-    "CMake 调试.C.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "structure.view.defaults.are.configured": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;C/C++ 文件.123.c (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.123.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.123.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.19.c.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ 文件.Hello World.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ax2+bx+c=0方程的解之选择结构终章.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.fgetc与fputc.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.fseek实用案列.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.include指令.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.operator.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.rewind和fseek.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.rewind和fseek以及ftell.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.三元运算符输出最大值.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.不算偶数的阶乘.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.二维数组的最大元素以及所在行列.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.写入文件.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.函数3.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷1-程序运行输出结果 18.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷10-填空题 10.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷10-程序分析题 1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷10-程序分析题 2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷10-程序分析题 3.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷10-程序分析题 4.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷10-程序填空题 1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷10-程序填空题 2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷10-编程题 1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷10-编程题 2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷2-程序填空 18.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷2-程序填空 21.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷2-程序设计 22.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷2-程序设计 23.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷2-程序设计 24.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷2-程序设计 25.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-填空题 10.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-程序填空 20.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-程序填空 21.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-程序填空 22.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-程序填空 23.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-程序设计 24.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-程序设计 25.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-读程序写结果 16.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-读程序写结果 17.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-读程序写结果 18.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷3-读程序写结果 19.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-填空题 7.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-程序填空 21.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-程序填空 22.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-程序填空 23.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-程序设计 24.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-程序设计 25.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-读程序写结果 16.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-读程序写结果 17.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-读程序写结果 18.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-读程序写结果 19.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷4-读程序写结果 20.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷5-程序填空 21.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷5-程序填空 22.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷5-程序填空 23.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷5-程序设计 24.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷5-程序设计 25.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷5-读程序写结果 16.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷5-读程序写结果 17.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷5-读程序写结果 18.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷5-读程序写结果 19.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷5-读程序写结果 20.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-填空题 11.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-填空题 15.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-填空题 16.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-填空题 17.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-程序设计 1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-程序设计 2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-读程序题 1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-读程序题目 2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-读程序题目 3.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-读程序题目 4.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷6-读程序题目 5.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷7-填空题 26.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷7-填空题 27.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷7-编程题 1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷7-编程题 2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷7-编程题 3.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷8-填空题 8.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷8-程序填空 1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷8-程序填空 2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷8-编程题 1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷8-编程题 2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷8-编程题 3.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷9-编程题 4-1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷9-编程题 4-2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷9-编程题 4-3.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷9-编程题 5-1.c (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷9-编程题 5-1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.卷9-编程题 5-2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.圆的相关计算.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.填空题 7.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.奇怪的宏定义.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.字符数组.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.字符数组之升序名单.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.存款利息其二.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.宏定义.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.小于1000的正数输出它的平方根.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.幻方(魔方阵列).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.打印2~500之间所有素数，并求和.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.打印菱形-中空.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.指针值的交换.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.指针指向一维数组取值.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.指针数组1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.数学函数求值.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.整型转字符型运算测试-18题.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.最大公约数与最小公倍数其一.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.条件编译.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.条件编译之条件判断.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.杨辉三角.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.测试.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.程序填空 21.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.程序填空 22.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.程序填空 23.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.程序设计 24.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.程序设计 25.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.程序运行输出结果 19.c (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.程序运行输出结果 19.c.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ 文件.程序运行输出结果 20.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.程序运行输出结果1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.表达式的值.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.语法错误.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.读程序写结果 19.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.读程序写结果 20.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.购房还款.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.输出3个数中最大的那个数.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.选择排序法.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.递归求最大公约数.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.逻辑表达式的值.c.executor&quot;: &quot;Run&quot;,
+    &quot;CMake 调试.C.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\C Language\C\头文件" />
       <recent name="D:\C Language\C\位运算" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.卷9-编程题 5-2.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="卷8-编程题 1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷8-编程题 1.c" CONFIG_NAME="卷8-编程题 1.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷8\卷8-编程题 1.c" />
+  <component name="RunManager" selected="C/C++ 文件.卷10-编程题 2.c">
+    <configuration name="卷10-编程题 1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷10-编程题 1.c" CONFIG_NAME="卷10-编程题 1.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷10\卷10-编程题 1.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="卷8-编程题 2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷8-编程题 2.c" CONFIG_NAME="卷8-编程题 2.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷8\卷8-编程题 2.c" />
+    <configuration name="卷10-程序填空题 1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷10-程序填空题 1.c" CONFIG_NAME="卷10-程序填空题 1.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷10\卷10-程序填空题 1.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="卷9-编程题 4-1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷9-编程题 4-1.c" CONFIG_NAME="卷9-编程题 4-1.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷9\卷9-编程题 4-1.c" />
+    <configuration name="卷10-程序填空题 1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷10-程序填空题 1.c" CONFIG_NAME="卷10-程序填空题 1.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷10\卷10-程序填空题 1.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="卷9-编程题 4-3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷9-编程题 4-3.c" CONFIG_NAME="卷9-编程题 4-3.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷9\卷9-编程题 4-3.c" />
+    <configuration name="卷10-编程题 2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷10-编程题 2.c" CONFIG_NAME="卷10-编程题 2.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷10\卷10-编程题 2.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="卷9-编程题 5-1.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷9-编程题 5-1.c" CONFIG_NAME="卷9-编程题 5-1.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷9\卷9-编程题 5-1（自创）.c" />
+    <configuration name="卷10-程序填空题 2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷10-程序填空题 2.c" CONFIG_NAME="卷10-程序填空题 2.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷10\卷10-程序填空题 2.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="卷9-编程题 5-1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷9-编程题 5-1.c" CONFIG_NAME="卷9-编程题 5-1.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷9\卷9-编程题 5-1.c" />
+    <configuration name="卷10-程序分析题 4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷10-程序分析题 4.c" CONFIG_NAME="卷10-程序分析题 4.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷10\卷10-程序分析题 4.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="卷9-编程题 5-2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="卷9-编程题 5-2.c" CONFIG_NAME="卷9-编程题 5-2.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\卷9\卷9-编程题 5-2.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数学函数求值.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="数学函数求值.c" CONFIG_NAME="数学函数求值.c">
-      <option name="sourceFile" value="程序设计\选择结构\数学函数求值.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="初识指针.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="初识指针.c" CONFIG_NAME="初识指针.c">
-      <option name="sourceFile" value="文件\初识指针.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="递归求最大公约数.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="递归求最大公约数.c" CONFIG_NAME="递归求最大公约数.c">
-      <option name="sourceFile" value="循环结构\递归求最大公约数.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
-      <option name="sourceFile" value="指针\相反存放.c" />
+    <configuration name="静态局部变量阶乘.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量阶乘.c" CONFIG_NAME="静态局部变量阶乘.c">
+      <option name="sourceFile" value="函数\静态局部变量阶乘.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="条件编译.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="条件编译.c" CONFIG_NAME="条件编译.c">
       <option name="sourceFile" value="预处理\条件编译.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="购房还款.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="购房还款.c" CONFIG_NAME="购房还款.c">
+      <option name="sourceFile" value="数据\购房还款.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -304,6 +294,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="奇怪的宏定义.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="奇怪的宏定义.c" CONFIG_NAME="奇怪的宏定义.c">
+      <option name="sourceFile" value="C语言程序设计\C语言预测卷\奇怪的宏定义.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="存款利息其二.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="存款利息其二.c" CONFIG_NAME="存款利息其二.c">
       <option name="sourceFile" value="数据\存款利息其二.c" />
       <method v="2">
@@ -312,18 +308,6 @@
     </configuration>
     <configuration name="静态局部变量.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量.c" CONFIG_NAME="静态局部变量.c">
       <option name="sourceFile" value="函数\静态局部变量.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="指向数组的指针.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="指向数组的指针.c" CONFIG_NAME="指向数组的指针.c">
-      <option name="sourceFile" value="指针\指向数组的指针.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="奇怪的宏定义.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="奇怪的宏定义.c" CONFIG_NAME="奇怪的宏定义.c">
-      <option name="sourceFile" value="C语言程序设计\C语言预测卷\奇怪的宏定义.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -346,6 +330,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="指向数组的指针.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="指向数组的指针.c" CONFIG_NAME="指向数组的指针.c">
+      <option name="sourceFile" value="指针\指向数组的指针.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="字符数组.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="字符数组.c" CONFIG_NAME="字符数组.c">
       <option name="sourceFile" value="C语言\字符数组.c" />
       <method v="2">
@@ -358,20 +348,14 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="初识指针.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="初识指针.c" CONFIG_NAME="初识指针.c">
+      <option name="sourceFile" value="文件\初识指针.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="递归求最大公约数.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="递归求最大公约数.c" CONFIG_NAME="递归求最大公约数.c">
       <option name="sourceFile" value="循环结构\递归求最大公约数.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二维数组指针输出.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="二维数组指针输出.c" CONFIG_NAME="二维数组指针输出.c">
-      <option name="sourceFile" value="指针\二维数组指针输出.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="购房还款.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="购房还款.c" CONFIG_NAME="购房还款.c">
-      <option name="sourceFile" value="数据\购房还款.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -412,12 +396,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="静态局部变量阶乘.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="静态局部变量阶乘.c" CONFIG_NAME="静态局部变量阶乘.c">
-      <option name="sourceFile" value="函数\静态局部变量阶乘.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="一般字符串复制.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="一般字符串复制.c" CONFIG_NAME="一般字符串复制.c">
       <option name="sourceFile" value="指针\一般字符串复制.c" />
       <method v="2">
@@ -436,6 +414,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="递归求最大公约数.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="递归求最大公约数.c" CONFIG_NAME="递归求最大公约数.c">
+      <option name="sourceFile" value="循环结构\递归求最大公约数.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="外部链接引用.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="外部链接引用.c" CONFIG_NAME="外部链接引用.c">
       <option name="sourceFile" value="函数\外部链接引用.c" />
       <method v="2">
@@ -448,13 +432,17 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="相反存放.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="相反存放.c" CONFIG_NAME="相反存放.c">
+      <option name="sourceFile" value="指针\相反存放.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ 文件.卷9-编程题 5-2.c" />
-        <item itemvalue="C/C++ 文件.卷9-编程题 5-1.c (1)" />
-        <item itemvalue="C/C++ 文件.卷9-编程题 4-1.c" />
-        <item itemvalue="C/C++ 文件.卷9-编程题 5-1.c" />
-        <item itemvalue="C/C++ 文件.卷9-编程题 4-3.c" />
+        <item itemvalue="C/C++ 文件.卷10-编程题 2.c" />
+        <item itemvalue="C/C++ 文件.卷10-编程题 1.c" />
+        <item itemvalue="C/C++ 文件.卷10-程序分析题 4.c" />
       </list>
     </recent_temporary>
   </component>
@@ -529,6 +517,10 @@
       <workItem from="1713778740061" duration="2640000" />
       <workItem from="1713788987336" duration="124000" />
       <workItem from="1713863658885" duration="3379000" />
+      <workItem from="1713880450618" duration="144000" />
+      <workItem from="1713952048117" duration="4265000" />
+      <workItem from="1713963633117" duration="1406000" />
+      <workItem from="1713965097928" duration="10000" />
     </task>
     <servers />
   </component>
